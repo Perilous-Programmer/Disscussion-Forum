@@ -1,2 +1,3 @@
 # Disscussion-Forum
-Ajax Based discussion forum
+This is a Ajax based disussion form.
+
